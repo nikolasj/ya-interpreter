@@ -4,8 +4,6 @@ Yet another programming language and interpreter made to pass our Machines Theor
 
 1. Learn Git
 ------------
-[Pro Git (book)](https://git-scm.com/book/ru/v2)
-
-[GitHowTo (practice)](http://githowto.com/ru/setup)
-
-[Daily Git (habr)](http://habrahabr.ru/post/174467/)
+- [Pro Git (book)](https://git-scm.com/book/ru/v2)
+- [GitHowTo (practice)](http://githowto.com/ru/setup)
+- [Daily Git (habr)](http://habrahabr.ru/post/174467/)
